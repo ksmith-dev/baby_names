@@ -1,4 +1,4 @@
-# babynames
+# BabyNames
 JAVA:
 
 This program recieve user input of a type baby name & retuns a popularity number as well as a gender for the baby name input from user.
